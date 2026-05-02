@@ -32,3 +32,6 @@ Screenshot 1:
 Screenshot 2:
    <img width="474" height="665" alt="image" src="https://github.com/user-attachments/assets/7f5e14fd-3270-48ed-bfbe-35b5abac5921" />
 
+
+
+This was originally made in 2024 through code.org during my time at college for a project submission. I've decided to extract the files from the original and upload them to my github to study on and add more later on through another project. Thank you for taking the time to interact with this page.
