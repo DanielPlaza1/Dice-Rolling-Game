@@ -1,7 +1,8 @@
 # Dice-Rolling-Game
 Start with a singular die, then roll to earn money to purchase upgrades, such as adding more value to your die or getting more dies! Win the game by purchasing the $2500 button.
 
-<img width="309" height="436" alt="image" src="https://github.com/user-attachments/assets/eff9856a-1fa8-4fcd-ae14-bb8536dc2064" />
+<img width="477" height="487" alt="image" src="https://github.com/user-attachments/assets/69a24075-9726-46f2-9463-033acae54db3" />
+
 
 How to play:
 
