@@ -24,7 +24,11 @@ Option 2:
    
    (Note: Failure to extract the folder from the ZIP file will lead to issues with the game.)
 
+
+Screenshot 1:
    <img width="468" height="661" alt="image" src="https://github.com/user-attachments/assets/6ca21c42-de3f-42dd-adcd-fbb749ab7d17" />
 
+
+Screenshot 2:
    <img width="474" height="665" alt="image" src="https://github.com/user-attachments/assets/7f5e14fd-3270-48ed-bfbe-35b5abac5921" />
 
