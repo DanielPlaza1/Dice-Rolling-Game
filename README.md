@@ -10,7 +10,7 @@ Note: you might need to zoom in on the page if the game is too small. This might
 
 Option 1:
 
-Click, or copy and paste this link into your search bar: https://danielplaza1.github.io/Dice-Rolling-Game/
+Click on, or copy and paste this link into your search bar: https://danielplaza1.github.io/Dice-Rolling-Game/
 
 Option 2:
 
